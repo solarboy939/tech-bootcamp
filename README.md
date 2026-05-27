@@ -6,7 +6,7 @@ Speakers: Patrick Burkert (Campus Founders), Henrike Luszick (Bridgemaker), Flor
 
 ## What's in here
 
-- `Bootcamp_TECH_Heilbronn.html` — the full 11-slide deck. Self-contained; can be opened directly with a browser as well.
+- `index.html` — the full 11-slide deck. Self-contained; can be opened directly with a browser as well.
 - `assets/` — logos and speaker photos.
 - `vercel.json` — rewrite so the root URL serves the deck.
 
